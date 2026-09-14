@@ -9,7 +9,7 @@ Deck trình bày: **Luận chứng sự cần thiết thực hiện Đề án** 
 
 ## Cấu trúc (20 phần)
 
-Storyline đi từ yêu cầu tăng trưởng đến khoảng cách mục tiêu 2030, ba điểm nghẽn, tài sản số có thể kế thừa, lý do cần đầu tư ở quy mô cấp tỉnh, chuỗi vấn đề–hạng mục–mục tiêu, kiến trúc bốn trụ cột, bảy hạng mục, hành trình du khách, vòng vận hành dữ liệu, giá trị đối với các bên, cơ sở triển khai, mục tiêu 2030, mô hình tham khảo, hiệu quả kinh tế, phương án bảo đảm hiệu quả đầu tư và nội dung đề nghị cấp có thẩm quyền xem xét.
+Storyline đi từ yêu cầu tăng trưởng đến khoảng cách mục tiêu 2030, ba điểm nghẽn, tài sản số có thể kế thừa, lý do cần đầu tư ở quy mô cấp tỉnh, chuỗi vấn đề–hạng mục–mục tiêu, kiến trúc bốn trụ cột, bảy hạng mục, hành trình du khách, vòng vận hành dữ liệu, giá trị đối với các bên, cơ sở triển khai, mục tiêu 2030, mô hình tham khảo, hiệu quả kinh tế, phương án bảo đảm hiệu quả đầu tư và kết luận về giá trị tổng hợp của Đề án đối với Thanh Hóa.
 
 ## Điều khiển
 
